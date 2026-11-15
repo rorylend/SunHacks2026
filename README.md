@@ -28,7 +28,7 @@ The project has two parts that talk to each other through a single CSV file.
 
 ```
  ☕ Java engine  ──►  results.csv  ──►  🐍 Python analysis  ──►  📊 3 charts
- (engine/)          (one row per       (storyteller/charts.py)
+ (engine/)          (one row per       (charts/charts.py)
                      battle)
 ```
 
@@ -97,7 +97,6 @@ SunHacks2026/
 See [`engine/`](engine/) for the fighter stats and Java details.
 
 ## Challenges We Ran Into
-Getting there wasn't smooth.
 - Java and Python don't share data directly, so we had to agree on a file format. The CSV's column names (`winner`, `loser`, `rounds`, `winner_hp_left`) had to match exactly or the analysis would fail with a `KeyError`.
 - Our data file was actually an Excel workbook with the wrong extension, so VS Code refused to open it as text.
 - We hit `ModuleNotFoundError` because the libraries were installed for a different Python than the one running the script. That taught us why virtual environments and `python -m pip` matter.
