@@ -21,7 +21,7 @@ The Java half of **Arena Analytics**. It runs **1,000 random battles** between s
 | 🧹 Roomba | 55 | 4–8 | 40% |
 | 🌪️ Haboob | 55 | 6–10 | 20% |
 
-## 🧠 How It Works
+## How It Works
 
 **1. `Fighter` holds the stats and the rules.** Each fighter has a name, max HP, current HP, an attack range, and a dodge chance. The fields are `private`, and other code uses getters and methods:
 
@@ -45,7 +45,7 @@ The Java half of **Arena Analytics**. It runs **1,000 random battles** between s
 4. Stop when someone's HP hits 0
 5. Return one CSV line: `id,winner,loser,rounds,winner_hp_left`
 
-## 📄 Output Format
+## Output Format
 
 ```
 battle_id,winner,loser,rounds,winner_hp_left
@@ -62,7 +62,7 @@ battle_id,winner,loser,rounds,winner_hp_left
 
 ⚠️ The Python code depends on these exact column names. If you change them, update `charts.py` too.
 
-## 🚀 How to Run
+## How to Run
 
 <details>
 <summary>▶️ In Eclipse (or any Java IDE)</summary>
@@ -84,7 +84,7 @@ java ProjectMain
 
 </details>
 
-## ✏️ Make It Your Own
+## Make It Your Own
 
 In `ProjectMain.java` you can:
 - Change `NUM_BATTLES` to run more or fewer fights
