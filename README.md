@@ -1,5 +1,4 @@
 # sunhacks 2026
-competing from Mesa Community College
 
 # ⚔️ Arena Analytics
 
@@ -13,6 +12,7 @@ Built for **SunHacks 2026** (Rookie category).
 ## 👥 Team
 - **Rory Lendzion**: Java battle engine (`engine/`)
 - **Armita Simchi**: Python analysis and charts (`charts/`)
+- competing from mesa cmmunity college
 
 ## Inspiration
 Every game with more than one character runs into the same argument: is it actually fair? Players debate it endlessly, but opinions aren't evidence, so we set out to answer the question with data instead of guesswork. The result is Arena Analytics, a battle simulator that lets fighters face each other hundreds of times and then tells us who really comes out on top.
