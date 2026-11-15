@@ -1,6 +1,6 @@
 # Java Engine: Battle Simulator
 
-The Java half of **Arena Analytics**. It runs **1,000 random battles** between six fighters and saves every result to `results.csv`. The Python side (see [`../storyteller`](charts)) reads that file and charts it.
+The Java half of **Arena Analytics**. It runs **1,000 random battles** between six fighters and saves every result to `results.csv`. The Python side (chart file) reads that file and charts it.
 
 ## Files
 
@@ -30,7 +30,7 @@ The Java half of **Arena Analytics**. It runs **1,000 random battles** between s
 - `isAlive()`: true while HP is above 0
 - `reset()`: restores full HP before each new battle
 
-**2. `ProjectMain` runs the show.** The `main` method:
+**2. `ProjectMain` runs the program.** The `main` method:
 
 1. Builds an `ArrayList` of the six fighters
 2. Opens `results.csv` and writes the header row
