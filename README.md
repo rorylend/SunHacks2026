@@ -10,8 +10,9 @@ Built for **SunHacks 2026** (Rookie category).
 <!-- ![Win rate per fighter](storyteller/charts/win_rate.png) -->
 
 ## 👥 Team
-- **[Rory Lendzion]**: Java battle engine (`engine/`)
-- **[Armita Simchi]**: Python analysis and charts (`charts/`)
+- **Rory Lendzion**: Java battle engine (`engine/`)
+- **Armita Simchi**: Python analysis and charts (`charts/`)
+- Competing from Mesa Community College
 
 ## Inspiration
 Every game with more than one character runs into the same argument: is it actually fair? Players debate it endlessly, but opinions aren't evidence, so we set out to answer the question with data instead of guesswork. The result is Arena Analytics, a battle simulator that lets fighters face each other hundreds of times and then tells us who really comes out on top.
