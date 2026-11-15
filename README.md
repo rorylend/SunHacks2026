@@ -78,7 +78,7 @@ java ProjectMain
 <summary>🐍 Step 2: Run the Python analysis</summary>
 
 ```bash
-cd storyteller
+cd charts
 python -m pip install -r requirements.txt
 python charts.py
 ```
