@@ -13,17 +13,17 @@ Built for **SunHacks 2026** (Rookie category).
 - **[Rory Lendzion]**: Java battle engine (`engine/`)
 - **[Armita Simchi]**: Python analysis and charts (`storyteller/`)
 
-## 💡 Inspiration
+## Inspiration
 Every game with more than one character runs into the same argument: is it actually fair? Players debate it endlessly, but opinions aren't evidence, so we set out to answer the question with data instead of guesswork. The result is Arena Analytics, a battle simulator that lets fighters face each other hundreds of times and then tells us who really comes out on top.
 
-## 🎮 What It Does
+## What It Does
 Arena Analytics is a battle simulator with a built-in balance report. A Java engine runs automated fights between six different fighters and logs every result: the winner, the loser, how many rounds it lasted, and how much HP the winner had left. A Python analysis tool reads that log and generates three charts:
 
 1. **Win rate per fighter**, with a 50% reference line to show who is above or below par
 2. **Battle length**, a histogram of how many rounds fights last
 3. **Dominance**, the average HP the winner has left, which shows who wins comfortably and who barely scrapes by
 
-## 🧩 How We Built It
+## How We Built It
 The project has two parts that talk to each other through a single CSV file.
 
 ```
@@ -106,10 +106,10 @@ Getting there wasn't smooth.
 ## 🏆 Accomplishments We're Proud Of
 We built a complete pipeline that simulated 1,000 battles between six fighters, analyzed the data, and showed it visually. Our biggest accomplishment is that the data answered the question we started with: the game is not balanced, and we can show it with a program we designed ourselves. We're also proud of getting the whole thing working across two languages. A process that would have taken hours of manual testing now takes seconds.
 
-## 📚 What We Learned
+## What We Learned
 Along the way we learned how to build a data pipeline across two languages, how to aggregate with pandas and visualize with matplotlib, and how to debug environment and file-format problems rather than just code.
 
-## 🔮 What's Next
+## What's Next
 - Suggest stat changes that balance overpowered fighters automatically
 - Add matchup heatmaps showing who beats whom
 - Let users define their own fighters
