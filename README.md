@@ -92,7 +92,7 @@ It prints a stats table and saves three charts into a `charts` folder. If `resul
 SunHacks2026/
 ├── README.md
 ├── engine/          ☕ Java: Fighter.java, ProjectMain.java, results.csv
-└── storyteller/     🐍 Python: charts.py, requirements.txt
+└── charts/     🐍 Python: charts.py
 ```
 See [`engine/`](engine/) for the fighter stats and Java details.
 
