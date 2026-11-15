@@ -1,0 +1,1001 @@
+Battle_id,winner,loser,rounds,winner_hp_left
+1,Haboob,Cactus,21,35
+2,Haboob,Cactus,28,1
+3,Dragon,Cactus,29,2
+4,Dragon,Cactus,27,32
+5,Dragon,Cactus,32,1
+6,Haboob,Roomba,31,31
+7,Vending Machine,Cactus,36,5
+8,Vending Machine,Cactus,42,4
+9,Cactus,Vending Machine,40,13
+10,Roomba,Vending Machine,62,2
+11,Sun Devil,Vending Machine,36,1
+12,Dragon,Haboob,33,16
+13,Sun Devil,Vending Machine,39,17
+14,Sun Devil,Haboob,27,17
+15,Vending Machine,Haboob,23,31
+16,Cactus,Sun Devil,29,8
+17,Sun Devil,Cactus,29,9
+18,Haboob,Roomba,31,21
+19,Sun Devil,Vending Machine,30,5
+20,Sun Devil,Dragon,45,7
+21,Roomba,Cactus,44,28
+22,Roomba,Cactus,29,40
+23,Cactus,Vending Machine,31,13
+24,Dragon,Sun Devil,32,21
+25,Sun Devil,Haboob,23,42
+26,Roomba,Sun Devil,35,6
+27,Dragon,Vending Machine,37,7
+28,Sun Devil,Vending Machine,41,7
+29,Cactus,Dragon,29,9
+30,Haboob,Roomba,27,11
+31,Haboob,Cactus,18,29
+32,Dragon,Haboob,31,19
+33,Dragon,Roomba,35,24
+34,Vending Machine,Haboob,32,30
+35,Vending Machine,Cactus,43,2
+36,Dragon,Vending Machine,29,14
+37,Dragon,Sun Devil,32,25
+38,Haboob,Roomba,25,5
+39,Dragon,Vending Machine,27,20
+40,Sun Devil,Roomba,38,16
+41,Haboob,Vending Machine,32,6
+42,Cactus,Roomba,26,6
+43,Cactus,Haboob,23,20
+44,Sun Devil,Dragon,30,5
+45,Haboob,Cactus,24,25
+46,Roomba,Vending Machine,45,10
+47,Dragon,Cactus,29,27
+48,Cactus,Roomba,26,22
+49,Sun Devil,Vending Machine,36,2
+50,Roomba,Sun Devil,37,20
+51,Dragon,Cactus,30,30
+52,Cactus,Dragon,32,10
+53,Dragon,Vending Machine,35,3
+54,Vending Machine,Sun Devil,41,3
+55,Vending Machine,Cactus,27,27
+56,Haboob,Cactus,23,16
+57,Sun Devil,Roomba,42,15
+58,Dragon,Vending Machine,29,39
+59,Sun Devil,Roomba,39,29
+60,Dragon,Vending Machine,30,15
+61,Haboob,Cactus,27,14
+62,Dragon,Sun Devil,36,2
+63,Cactus,Roomba,39,4
+64,Roomba,Dragon,44,26
+65,Cactus,Vending Machine,33,23
+66,Roomba,Haboob,24,16
+67,Haboob,Sun Devil,29,19
+68,Roomba,Dragon,35,7
+69,Sun Devil,Cactus,30,12
+70,Dragon,Haboob,29,11
+71,Roomba,Vending Machine,37,9
+72,Dragon,Roomba,31,8
+73,Sun Devil,Haboob,24,17
+74,Vending Machine,Cactus,28,18
+75,Sun Devil,Roomba,33,14
+76,Dragon,Cactus,32,14
+77,Roomba,Sun Devil,35,5
+78,Haboob,Dragon,31,13
+79,Vending Machine,Haboob,27,22
+80,Dragon,Vending Machine,35,1
+81,Haboob,Vending Machine,44,14
+82,Vending Machine,Cactus,35,16
+83,Haboob,Cactus,28,6
+84,Dragon,Cactus,31,29
+85,Haboob,Vending Machine,38,1
+86,Haboob,Sun Devil,34,3
+87,Vending Machine,Haboob,31,14
+88,Sun Devil,Haboob,32,4
+89,Sun Devil,Vending Machine,33,19
+90,Dragon,Vending Machine,31,22
+91,Vending Machine,Roomba,50,4
+92,Roomba,Cactus,43,10
+93,Vending Machine,Dragon,39,17
+94,Roomba,Vending Machine,40,3
+95,Cactus,Haboob,28,21
+96,Roomba,Sun Devil,35,9
+97,Vending Machine,Sun Devil,51,2
+98,Roomba,Haboob,28,38
+99,Roomba,Vending Machine,44,8
+100,Dragon,Vending Machine,37,3
+101,Vending Machine,Haboob,34,6
+102,Sun Devil,Vending Machine,37,21
+103,Dragon,Vending Machine,32,17
+104,Dragon,Cactus,22,43
+105,Dragon,Roomba,36,10
+106,Sun Devil,Vending Machine,39,5
+107,Dragon,Haboob,18,49
+108,Dragon,Vending Machine,29,21
+109,Sun Devil,Dragon,36,15
+110,Dragon,Sun Devil,25,2
+111,Vending Machine,Cactus,37,7
+112,Dragon,Vending Machine,30,23
+113,Sun Devil,Dragon,27,13
+114,Vending Machine,Cactus,32,19
+115,Roomba,Vending Machine,62,1
+116,Dragon,Roomba,27,30
+117,Cactus,Haboob,29,4
+118,Haboob,Vending Machine,32,12
+119,Dragon,Haboob,24,23
+120,Cactus,Haboob,21,28
+121,Haboob,Sun Devil,35,1
+122,Vending Machine,Dragon,39,6
+123,Sun Devil,Haboob,31,45
+124,Sun Devil,Vending Machine,34,10
+125,Haboob,Vending Machine,38,10
+126,Cactus,Sun Devil,36,11
+127,Dragon,Roomba,39,28
+128,Vending Machine,Cactus,31,27
+129,Sun Devil,Cactus,37,24
+130,Dragon,Cactus,26,10
+131,Cactus,Haboob,34,6
+132,Sun Devil,Vending Machine,31,8
+133,Roomba,Vending Machine,42,36
+134,Sun Devil,Roomba,38,7
+135,Roomba,Cactus,34,16
+136,Dragon,Roomba,29,24
+137,Roomba,Cactus,29,34
+138,Sun Devil,Vending Machine,31,10
+139,Roomba,Haboob,30,24
+140,Haboob,Sun Devil,29,2
+141,Roomba,Sun Devil,48,3
+142,Vending Machine,Sun Devil,33,14
+143,Vending Machine,Cactus,29,25
+144,Dragon,Vending Machine,38,2
+145,Vending Machine,Dragon,35,7
+146,Vending Machine,Sun Devil,31,22
+147,Haboob,Roomba,21,3
+148,Roomba,Cactus,31,5
+149,Haboob,Sun Devil,33,18
+150,Roomba,Dragon,37,10
+151,Roomba,Sun Devil,33,14
+152,Roomba,Dragon,38,5
+153,Dragon,Roomba,24,46
+154,Haboob,Cactus,27,9
+155,Vending Machine,Haboob,32,6
+156,Dragon,Vending Machine,33,32
+157,Roomba,Vending Machine,35,7
+158,Sun Devil,Haboob,25,22
+159,Sun Devil,Vending Machine,41,3
+160,Dragon,Roomba,35,16
+161,Roomba,Vending Machine,35,31
+162,Dragon,Vending Machine,38,12
+163,Roomba,Haboob,36,24
+164,Sun Devil,Dragon,30,20
+165,Sun Devil,Roomba,33,18
+166,Haboob,Vending Machine,27,34
+167,Sun Devil,Roomba,44,3
+168,Dragon,Cactus,36,4
+169,Dragon,Cactus,28,25
+170,Sun Devil,Vending Machine,42,10
+171,Dragon,Vending Machine,41,12
+172,Roomba,Dragon,27,1
+173,Haboob,Cactus,24,3
+174,Dragon,Sun Devil,29,20
+175,Sun Devil,Cactus,26,27
+176,Sun Devil,Cactus,41,3
+177,Vending Machine,Haboob,37,1
+178,Cactus,Vending Machine,40,2
+179,Haboob,Vending Machine,29,1
+180,Roomba,Vending Machine,34,10
+181,Roomba,Dragon,32,5
+182,Dragon,Cactus,28,27
+183,Vending Machine,Cactus,37,26
+184,Sun Devil,Cactus,32,3
+185,Roomba,Dragon,40,6
+186,Vending Machine,Sun Devil,35,19
+187,Haboob,Cactus,30,7
+188,Sun Devil,Haboob,36,19
+189,Roomba,Cactus,29,37
+190,Dragon,Cactus,36,9
+191,Sun Devil,Dragon,38,5
+192,Dragon,Roomba,33,25
+193,Sun Devil,Haboob,38,2
+194,Vending Machine,Haboob,29,34
+195,Cactus,Dragon,30,9
+196,Cactus,Haboob,29,19
+197,Roomba,Cactus,33,2
+198,Roomba,Cactus,38,5
+199,Roomba,Cactus,40,1
+200,Haboob,Vending Machine,33,5
+201,Vending Machine,Sun Devil,40,1
+202,Haboob,Roomba,41,10
+203,Cactus,Haboob,28,23
+204,Roomba,Vending Machine,37,23
+205,Roomba,Vending Machine,56,6
+206,Dragon,Vending Machine,34,23
+207,Roomba,Sun Devil,40,10
+208,Dragon,Roomba,34,10
+209,Roomba,Cactus,37,26
+210,Sun Devil,Cactus,34,3
+211,Sun Devil,Haboob,30,8
+212,Dragon,Cactus,29,38
+213,Sun Devil,Cactus,29,8
+214,Sun Devil,Haboob,25,3
+215,Sun Devil,Vending Machine,33,32
+216,Sun Devil,Vending Machine,29,47
+217,Dragon,Vending Machine,34,8
+218,Dragon,Roomba,35,5
+219,Roomba,Vending Machine,39,16
+220,Dragon,Vending Machine,27,11
+221,Sun Devil,Haboob,27,6
+222,Sun Devil,Cactus,37,13
+223,Sun Devil,Vending Machine,35,13
+224,Cactus,Dragon,33,3
+225,Vending Machine,Cactus,31,36
+226,Cactus,Sun Devil,32,2
+227,Vending Machine,Sun Devil,40,15
+228,Vending Machine,Dragon,48,10
+229,Sun Devil,Roomba,31,44
+230,Roomba,Cactus,42,7
+231,Dragon,Cactus,22,26
+232,Roomba,Haboob,37,11
+233,Haboob,Vending Machine,30,20
+234,Roomba,Sun Devil,35,21
+235,Dragon,Cactus,24,29
+236,Haboob,Sun Devil,28,4
+237,Dragon,Cactus,24,20
+238,Haboob,Vending Machine,38,19
+239,Roomba,Cactus,47,12
+240,Dragon,Haboob,27,15
+241,Dragon,Cactus,29,5
+242,Sun Devil,Haboob,39,15
+243,Roomba,Haboob,35,3
+244,Sun Devil,Vending Machine,33,24
+245,Sun Devil,Vending Machine,40,18
+246,Haboob,Vending Machine,27,3
+247,Roomba,Cactus,31,2
+248,Vending Machine,Roomba,44,6
+249,Vending Machine,Roomba,34,10
+250,Haboob,Dragon,27,3
+251,Dragon,Sun Devil,27,32
+252,Cactus,Vending Machine,33,24
+253,Haboob,Roomba,18,27
+254,Sun Devil,Vending Machine,32,22
+255,Dragon,Haboob,24,7
+256,Cactus,Vending Machine,33,8
+257,Vending Machine,Roomba,40,2
+258,Dragon,Sun Devil,36,11
+259,Sun Devil,Haboob,31,8
+260,Roomba,Cactus,40,15
+261,Sun Devil,Haboob,22,29
+262,Cactus,Sun Devil,34,8
+263,Roomba,Cactus,33,14
+264,Sun Devil,Cactus,22,55
+265,Sun Devil,Vending Machine,34,21
+266,Sun Devil,Haboob,33,15
+267,Sun Devil,Cactus,23,23
+268,Roomba,Vending Machine,39,26
+269,Cactus,Dragon,28,1
+270,Haboob,Cactus,25,12
+271,Roomba,Dragon,35,17
+272,Roomba,Vending Machine,47,1
+273,Sun Devil,Dragon,38,19
+274,Vending Machine,Haboob,30,22
+275,Sun Devil,Vending Machine,33,6
+276,Cactus,Roomba,38,13
+277,Sun Devil,Haboob,18,50
+278,Sun Devil,Haboob,30,28
+279,Roomba,Vending Machine,39,11
+280,Roomba,Dragon,36,7
+281,Haboob,Roomba,25,15
+282,Roomba,Vending Machine,31,14
+283,Dragon,Vending Machine,32,21
+284,Vending Machine,Sun Devil,40,5
+285,Dragon,Vending Machine,33,1
+286,Vending Machine,Haboob,28,4
+287,Dragon,Sun Devil,25,24
+288,Sun Devil,Vending Machine,33,18
+289,Sun Devil,Cactus,27,30
+290,Roomba,Vending Machine,41,18
+291,Haboob,Roomba,26,18
+292,Vending Machine,Cactus,35,30
+293,Vending Machine,Cactus,35,10
+294,Dragon,Vending Machine,36,3
+295,Haboob,Cactus,27,2
+296,Dragon,Sun Devil,30,22
+297,Roomba,Haboob,36,1
+298,Vending Machine,Haboob,20,39
+299,Vending Machine,Roomba,25,37
+300,Roomba,Haboob,30,21
+301,Dragon,Vending Machine,38,2
+302,Sun Devil,Dragon,33,20
+303,Haboob,Dragon,36,2
+304,Sun Devil,Vending Machine,32,8
+305,Dragon,Vending Machine,33,23
+306,Vending Machine,Sun Devil,31,6
+307,Dragon,Cactus,29,10
+308,Sun Devil,Roomba,29,25
+309,Haboob,Cactus,27,15
+310,Roomba,Cactus,35,32
+311,Cactus,Haboob,23,16
+312,Dragon,Vending Machine,42,7
+313,Cactus,Haboob,23,11
+314,Dragon,Vending Machine,33,12
+315,Sun Devil,Dragon,29,25
+316,Haboob,Sun Devil,25,18
+317,Sun Devil,Roomba,34,30
+318,Vending Machine,Roomba,31,45
+319,Sun Devil,Dragon,32,4
+320,Dragon,Roomba,32,11
+321,Roomba,Sun Devil,37,9
+322,Haboob,Sun Devil,24,11
+323,Sun Devil,Dragon,34,6
+324,Haboob,Vending Machine,39,15
+325,Dragon,Sun Devil,36,8
+326,Sun Devil,Vending Machine,33,4
+327,Sun Devil,Vending Machine,33,27
+328,Dragon,Sun Devil,32,10
+329,Haboob,Vending Machine,23,19
+330,Sun Devil,Haboob,21,25
+331,Dragon,Cactus,25,38
+332,Dragon,Haboob,26,6
+333,Haboob,Dragon,37,2
+334,Vending Machine,Haboob,26,32
+335,Sun Devil,Vending Machine,48,12
+336,Sun Devil,Roomba,23,36
+337,Sun Devil,Cactus,27,15
+338,Cactus,Roomba,29,23
+339,Vending Machine,Sun Devil,37,6
+340,Haboob,Dragon,33,8
+341,Dragon,Haboob,25,21
+342,Vending Machine,Haboob,31,15
+343,Roomba,Sun Devil,33,8
+344,Sun Devil,Cactus,23,37
+345,Sun Devil,Dragon,31,12
+346,Cactus,Roomba,35,30
+347,Dragon,Sun Devil,30,23
+348,Vending Machine,Sun Devil,34,9
+349,Roomba,Dragon,40,1
+350,Vending Machine,Roomba,25,45
+351,Cactus,Roomba,36,2
+352,Vending Machine,Roomba,26,46
+353,Dragon,Roomba,40,15
+354,Sun Devil,Cactus,28,25
+355,Haboob,Vending Machine,37,12
+356,Roomba,Cactus,30,27
+357,Vending Machine,Cactus,32,41
+358,Dragon,Cactus,21,33
+359,Dragon,Roomba,29,30
+360,Cactus,Dragon,29,4
+361,Dragon,Vending Machine,33,5
+362,Haboob,Roomba,29,30
+363,Cactus,Sun Devil,31,16
+364,Vending Machine,Cactus,36,12
+365,Vending Machine,Dragon,29,14
+366,Vending Machine,Cactus,34,6
+367,Haboob,Vending Machine,28,26
+368,Sun Devil,Cactus,33,12
+369,Cactus,Sun Devil,27,23
+370,Cactus,Haboob,33,3
+371,Vending Machine,Roomba,52,9
+372,Vending Machine,Cactus,33,15
+373,Dragon,Vending Machine,32,17
+374,Sun Devil,Haboob,30,20
+375,Dragon,Haboob,28,25
+376,Vending Machine,Cactus,35,7
+377,Sun Devil,Haboob,18,31
+378,Sun Devil,Cactus,30,14
+379,Vending Machine,Cactus,34,24
+380,Haboob,Cactus,26,8
+381,Haboob,Cactus,32,1
+382,Dragon,Vending Machine,40,3
+383,Dragon,Vending Machine,29,33
+384,Cactus,Haboob,25,12
+385,Vending Machine,Cactus,42,8
+386,Haboob,Roomba,36,2
+387,Vending Machine,Sun Devil,40,4
+388,Dragon,Haboob,24,9
+389,Cactus,Haboob,33,6
+390,Roomba,Haboob,25,25
+391,Sun Devil,Cactus,33,15
+392,Dragon,Sun Devil,34,6
+393,Sun Devil,Dragon,33,15
+394,Haboob,Vending Machine,26,3
+395,Haboob,Vending Machine,37,6
+396,Haboob,Sun Devil,25,12
+397,Haboob,Cactus,26,19
+398,Dragon,Vending Machine,35,17
+399,Dragon,Roomba,25,33
+400,Sun Devil,Haboob,22,39
+401,Dragon,Haboob,32,3
+402,Haboob,Roomba,30,6
+403,Roomba,Vending Machine,36,18
+404,Vending Machine,Cactus,40,6
+405,Roomba,Cactus,36,27
+406,Vending Machine,Roomba,27,11
+407,Haboob,Roomba,29,18
+408,Vending Machine,Dragon,39,2
+409,Sun Devil,Dragon,31,17
+410,Vending Machine,Sun Devil,31,24
+411,Dragon,Vending Machine,32,9
+412,Roomba,Sun Devil,33,21
+413,Dragon,Haboob,28,6
+414,Haboob,Sun Devil,29,1
+415,Dragon,Haboob,23,25
+416,Haboob,Dragon,21,2
+417,Haboob,Cactus,27,11
+418,Roomba,Sun Devil,48,12
+419,Sun Devil,Vending Machine,29,28
+420,Sun Devil,Vending Machine,46,9
+421,Cactus,Vending Machine,45,12
+422,Haboob,Vending Machine,28,7
+423,Haboob,Roomba,32,4
+424,Roomba,Sun Devil,38,29
+425,Vending Machine,Sun Devil,38,16
+426,Roomba,Dragon,34,10
+427,Haboob,Cactus,18,15
+428,Haboob,Dragon,22,5
+429,Dragon,Sun Devil,23,32
+430,Vending Machine,Haboob,31,24
+431,Roomba,Vending Machine,45,11
+432,Roomba,Vending Machine,45,22
+433,Sun Devil,Vending Machine,27,22
+434,Dragon,Sun Devil,25,12
+435,Roomba,Sun Devil,40,13
+436,Haboob,Cactus,25,23
+437,Cactus,Dragon,44,2
+438,Sun Devil,Haboob,33,6
+439,Haboob,Cactus,30,5
+440,Haboob,Sun Devil,26,9
+441,Sun Devil,Vending Machine,31,34
+442,Sun Devil,Haboob,30,38
+443,Dragon,Vending Machine,31,13
+444,Sun Devil,Vending Machine,36,25
+445,Vending Machine,Haboob,27,11
+446,Roomba,Haboob,25,21
+447,Sun Devil,Roomba,30,6
+448,Sun Devil,Cactus,30,12
+449,Haboob,Dragon,23,7
+450,Dragon,Vending Machine,37,1
+451,Dragon,Haboob,20,24
+452,Sun Devil,Dragon,28,25
+453,Cactus,Haboob,20,16
+454,Sun Devil,Haboob,25,21
+455,Dragon,Roomba,28,24
+456,Cactus,Sun Devil,33,9
+457,Dragon,Cactus,25,32
+458,Dragon,Haboob,27,11
+459,Vending Machine,Cactus,32,12
+460,Dragon,Roomba,23,37
+461,Roomba,Haboob,34,2
+462,Haboob,Dragon,29,14
+463,Haboob,Vending Machine,38,1
+464,Vending Machine,Dragon,38,11
+465,Cactus,Haboob,33,1
+466,Dragon,Cactus,33,22
+467,Dragon,Sun Devil,34,2
+468,Cactus,Haboob,29,1
+469,Roomba,Sun Devil,35,2
+470,Cactus,Vending Machine,38,15
+471,Roomba,Vending Machine,37,9
+472,Sun Devil,Vending Machine,41,7
+473,Dragon,Sun Devil,39,5
+474,Dragon,Sun Devil,26,16
+475,Roomba,Haboob,23,22
+476,Sun Devil,Haboob,26,8
+477,Haboob,Vending Machine,32,20
+478,Roomba,Haboob,24,23
+479,Sun Devil,Dragon,26,8
+480,Sun Devil,Roomba,50,1
+481,Vending Machine,Haboob,32,9
+482,Haboob,Cactus,27,11
+483,Haboob,Vending Machine,29,23
+484,Sun Devil,Vending Machine,34,6
+485,Cactus,Haboob,32,15
+486,Sun Devil,Vending Machine,30,37
+487,Sun Devil,Haboob,30,23
+488,Sun Devil,Roomba,25,30
+489,Sun Devil,Vending Machine,45,7
+490,Haboob,Sun Devil,32,10
+491,Roomba,Dragon,39,3
+492,Dragon,Vending Machine,42,1
+493,Sun Devil,Roomba,28,25
+494,Sun Devil,Roomba,45,14
+495,Dragon,Cactus,25,38
+496,Dragon,Haboob,31,19
+497,Sun Devil,Haboob,27,10
+498,Vending Machine,Cactus,40,20
+499,Dragon,Vending Machine,37,9
+500,Cactus,Haboob,25,1
+501,Sun Devil,Dragon,27,2
+502,Cactus,Dragon,35,4
+503,Sun Devil,Cactus,25,30
+504,Roomba,Haboob,28,25
+505,Roomba,Dragon,37,25
+506,Haboob,Roomba,29,34
+507,Dragon,Vending Machine,32,28
+508,Vending Machine,Haboob,29,31
+509,Cactus,Vending Machine,40,7
+510,Haboob,Dragon,25,18
+511,Sun Devil,Vending Machine,37,19
+512,Haboob,Vending Machine,32,10
+513,Roomba,Sun Devil,43,5
+514,Roomba,Haboob,33,1
+515,Sun Devil,Haboob,27,10
+516,Dragon,Sun Devil,28,3
+517,Dragon,Cactus,25,27
+518,Sun Devil,Cactus,31,28
+519,Roomba,Dragon,37,6
+520,Haboob,Dragon,36,4
+521,Roomba,Sun Devil,33,13
+522,Vending Machine,Cactus,35,5
+523,Vending Machine,Dragon,32,2
+524,Roomba,Vending Machine,41,14
+525,Roomba,Vending Machine,41,7
+526,Dragon,Vending Machine,26,21
+527,Haboob,Cactus,32,9
+528,Dragon,Sun Devil,23,29
+529,Sun Devil,Vending Machine,33,11
+530,Haboob,Dragon,28,8
+531,Sun Devil,Dragon,37,6
+532,Vending Machine,Haboob,29,13
+533,Cactus,Sun Devil,27,24
+534,Vending Machine,Sun Devil,43,6
+535,Sun Devil,Roomba,29,30
+536,Roomba,Dragon,41,30
+537,Sun Devil,Cactus,34,8
+538,Sun Devil,Cactus,29,9
+539,Roomba,Dragon,33,10
+540,Sun Devil,Dragon,27,28
+541,Dragon,Sun Devil,31,16
+542,Sun Devil,Haboob,32,19
+543,Roomba,Dragon,35,8
+544,Haboob,Sun Devil,24,11
+545,Vending Machine,Sun Devil,31,41
+546,Vending Machine,Cactus,21,46
+547,Vending Machine,Cactus,39,9
+548,Sun Devil,Haboob,26,7
+549,Cactus,Haboob,27,10
+550,Sun Devil,Vending Machine,33,26
+551,Roomba,Vending Machine,35,13
+552,Dragon,Haboob,26,18
+553,Haboob,Cactus,30,13
+554,Roomba,Vending Machine,42,19
+555,Dragon,Roomba,38,11
+556,Dragon,Haboob,32,18
+557,Vending Machine,Sun Devil,38,4
+558,Roomba,Sun Devil,42,5
+559,Sun Devil,Vending Machine,31,31
+560,Dragon,Cactus,28,18
+561,Haboob,Sun Devil,31,10
+562,Dragon,Haboob,33,3
+563,Roomba,Haboob,39,13
+564,Vending Machine,Haboob,34,22
+565,Vending Machine,Haboob,32,7
+566,Vending Machine,Cactus,34,3
+567,Sun Devil,Roomba,30,21
+568,Dragon,Vending Machine,38,1
+569,Dragon,Roomba,23,28
+570,Dragon,Sun Devil,31,7
+571,Dragon,Vending Machine,37,10
+572,Haboob,Vending Machine,33,1
+573,Haboob,Sun Devil,24,4
+574,Dragon,Cactus,28,22
+575,Roomba,Haboob,23,13
+576,Vending Machine,Roomba,50,8
+577,Roomba,Haboob,37,14
+578,Haboob,Cactus,27,2
+579,Vending Machine,Haboob,29,17
+580,Sun Devil,Vending Machine,40,9
+581,Vending Machine,Dragon,36,17
+582,Sun Devil,Roomba,39,4
+583,Sun Devil,Roomba,38,13
+584,Roomba,Cactus,46,4
+585,Roomba,Haboob,33,6
+586,Haboob,Cactus,31,1
+587,Roomba,Sun Devil,37,25
+588,Sun Devil,Roomba,52,27
+589,Cactus,Haboob,26,23
+590,Cactus,Haboob,19,30
+591,Haboob,Cactus,22,29
+592,Dragon,Haboob,24,31
+593,Vending Machine,Cactus,30,5
+594,Cactus,Sun Devil,28,12
+595,Sun Devil,Haboob,27,16
+596,Roomba,Dragon,34,19
+597,Roomba,Sun Devil,32,10
+598,Haboob,Cactus,17,20
+599,Dragon,Haboob,25,16
+600,Vending Machine,Cactus,29,18
+601,Dragon,Roomba,23,25
+602,Vending Machine,Cactus,32,30
+603,Vending Machine,Haboob,33,22
+604,Sun Devil,Dragon,30,13
+605,Dragon,Haboob,31,8
+606,Dragon,Roomba,28,11
+607,Roomba,Sun Devil,37,9
+608,Sun Devil,Dragon,27,25
+609,Roomba,Sun Devil,39,12
+610,Haboob,Cactus,36,1
+611,Vending Machine,Cactus,33,7
+612,Sun Devil,Vending Machine,41,14
+613,Cactus,Sun Devil,33,7
+614,Dragon,Haboob,26,21
+615,Haboob,Cactus,25,3
+616,Sun Devil,Cactus,28,9
+617,Sun Devil,Haboob,31,14
+618,Cactus,Haboob,36,3
+619,Sun Devil,Vending Machine,30,15
+620,Sun Devil,Cactus,24,29
+621,Vending Machine,Roomba,33,21
+622,Cactus,Sun Devil,26,9
+623,Dragon,Haboob,28,31
+624,Dragon,Haboob,23,21
+625,Cactus,Dragon,29,1
+626,Dragon,Cactus,32,9
+627,Haboob,Cactus,25,21
+628,Cactus,Vending Machine,44,3
+629,Dragon,Vending Machine,33,11
+630,Dragon,Cactus,27,16
+631,Dragon,Sun Devil,31,6
+632,Vending Machine,Cactus,46,2
+633,Cactus,Haboob,26,11
+634,Roomba,Haboob,28,13
+635,Sun Devil,Roomba,38,21
+636,Haboob,Roomba,37,7
+637,Roomba,Vending Machine,45,6
+638,Dragon,Vending Machine,33,13
+639,Sun Devil,Haboob,29,5
+640,Dragon,Roomba,37,5
+641,Dragon,Haboob,25,23
+642,Dragon,Cactus,25,29
+643,Vending Machine,Haboob,27,17
+644,Sun Devil,Haboob,27,10
+645,Haboob,Roomba,23,34
+646,Roomba,Sun Devil,36,1
+647,Dragon,Cactus,31,2
+648,Vending Machine,Sun Devil,42,12
+649,Haboob,Dragon,42,4
+650,Roomba,Haboob,27,17
+651,Roomba,Cactus,31,39
+652,Vending Machine,Sun Devil,38,16
+653,Dragon,Vending Machine,36,9
+654,Sun Devil,Roomba,36,20
+655,Dragon,Vending Machine,29,15
+656,Haboob,Cactus,27,17
+657,Roomba,Cactus,36,5
+658,Vending Machine,Roomba,32,32
+659,Sun Devil,Vending Machine,42,4
+660,Sun Devil,Dragon,34,13
+661,Vending Machine,Haboob,28,17
+662,Dragon,Haboob,23,34
+663,Roomba,Vending Machine,45,8
+664,Sun Devil,Cactus,36,18
+665,Sun Devil,Roomba,35,17
+666,Cactus,Vending Machine,33,3
+667,Sun Devil,Vending Machine,36,22
+668,Vending Machine,Dragon,35,21
+669,Vending Machine,Dragon,43,4
+670,Dragon,Roomba,32,1
+671,Roomba,Haboob,35,1
+672,Haboob,Roomba,29,4
+673,Sun Devil,Vending Machine,31,13
+674,Sun Devil,Dragon,34,14
+675,Roomba,Cactus,32,37
+676,Sun Devil,Haboob,30,10
+677,Cactus,Sun Devil,29,3
+678,Haboob,Vending Machine,27,10
+679,Roomba,Sun Devil,39,4
+680,Sun Devil,Vending Machine,35,22
+681,Roomba,Haboob,29,2
+682,Roomba,Sun Devil,46,7
+683,Dragon,Cactus,27,4
+684,Roomba,Cactus,34,5
+685,Haboob,Cactus,28,18
+686,Sun Devil,Cactus,30,10
+687,Haboob,Vending Machine,38,11
+688,Sun Devil,Cactus,37,16
+689,Sun Devil,Cactus,30,6
+690,Vending Machine,Roomba,30,20
+691,Roomba,Haboob,34,15
+692,Dragon,Cactus,28,22
+693,Sun Devil,Dragon,31,10
+694,Dragon,Vending Machine,32,8
+695,Roomba,Dragon,29,34
+696,Dragon,Vending Machine,42,15
+697,Dragon,Cactus,28,31
+698,Cactus,Vending Machine,28,29
+699,Haboob,Dragon,25,6
+700,Sun Devil,Vending Machine,31,15
+701,Vending Machine,Haboob,31,26
+702,Haboob,Sun Devil,32,3
+703,Dragon,Roomba,33,13
+704,Dragon,Roomba,42,5
+705,Haboob,Roomba,30,27
+706,Cactus,Roomba,36,3
+707,Sun Devil,Cactus,22,41
+708,Haboob,Sun Devil,23,13
+709,Roomba,Dragon,40,11
+710,Sun Devil,Haboob,20,30
+711,Haboob,Cactus,28,24
+712,Cactus,Dragon,37,6
+713,Haboob,Sun Devil,31,1
+714,Dragon,Sun Devil,30,31
+715,Dragon,Sun Devil,34,8
+716,Vending Machine,Cactus,29,44
+717,Vending Machine,Dragon,38,10
+718,Roomba,Haboob,36,15
+719,Roomba,Vending Machine,36,3
+720,Dragon,Vending Machine,31,24
+721,Haboob,Roomba,36,7
+722,Dragon,Cactus,30,19
+723,Cactus,Dragon,28,15
+724,Vending Machine,Roomba,32,37
+725,Sun Devil,Dragon,30,15
+726,Cactus,Sun Devil,25,19
+727,Roomba,Cactus,27,18
+728,Roomba,Sun Devil,44,21
+729,Cactus,Vending Machine,35,2
+730,Dragon,Sun Devil,26,12
+731,Haboob,Vending Machine,25,12
+732,Cactus,Vending Machine,37,10
+733,Dragon,Cactus,27,22
+734,Cactus,Dragon,26,19
+735,Roomba,Cactus,31,25
+736,Haboob,Vending Machine,36,6
+737,Sun Devil,Vending Machine,37,23
+738,Dragon,Cactus,28,19
+739,Cactus,Roomba,39,16
+740,Roomba,Vending Machine,53,12
+741,Haboob,Cactus,28,18
+742,Dragon,Vending Machine,41,15
+743,Vending Machine,Roomba,27,37
+744,Vending Machine,Sun Devil,36,3
+745,Vending Machine,Cactus,36,5
+746,Haboob,Cactus,22,30
+747,Dragon,Roomba,32,9
+748,Roomba,Dragon,29,12
+749,Haboob,Vending Machine,35,24
+750,Sun Devil,Roomba,36,11
+751,Vending Machine,Roomba,36,17
+752,Haboob,Roomba,26,9
+753,Roomba,Haboob,38,9
+754,Sun Devil,Dragon,39,1
+755,Dragon,Haboob,36,24
+756,Roomba,Cactus,37,2
+757,Haboob,Roomba,31,7
+758,Cactus,Haboob,27,1
+759,Roomba,Sun Devil,43,12
+760,Roomba,Dragon,35,1
+761,Dragon,Cactus,28,14
+762,Sun Devil,Cactus,28,28
+763,Roomba,Vending Machine,35,36
+764,Roomba,Vending Machine,41,7
+765,Haboob,Cactus,21,24
+766,Dragon,Cactus,24,8
+767,Cactus,Haboob,30,1
+768,Haboob,Dragon,29,1
+769,Cactus,Dragon,32,3
+770,Vending Machine,Cactus,37,22
+771,Dragon,Vending Machine,39,7
+772,Dragon,Haboob,30,3
+773,Vending Machine,Dragon,35,9
+774,Sun Devil,Vending Machine,47,8
+775,Haboob,Cactus,29,5
+776,Roomba,Sun Devil,57,11
+777,Haboob,Vending Machine,27,10
+778,Vending Machine,Haboob,41,2
+779,Dragon,Haboob,30,28
+780,Haboob,Cactus,26,10
+781,Sun Devil,Dragon,29,14
+782,Vending Machine,Cactus,44,12
+783,Vending Machine,Haboob,27,33
+784,Vending Machine,Haboob,37,2
+785,Vending Machine,Haboob,32,16
+786,Sun Devil,Vending Machine,31,27
+787,Roomba,Sun Devil,49,7
+788,Sun Devil,Vending Machine,40,8
+789,Haboob,Roomba,26,13
+790,Sun Devil,Cactus,33,5
+791,Vending Machine,Roomba,21,31
+792,Dragon,Roomba,28,25
+793,Haboob,Vending Machine,27,14
+794,Sun Devil,Roomba,28,17
+795,Dragon,Cactus,21,2
+796,Vending Machine,Roomba,35,2
+797,Haboob,Vending Machine,33,5
+798,Sun Devil,Cactus,33,5
+799,Roomba,Vending Machine,37,27
+800,Cactus,Sun Devil,33,5
+801,Vending Machine,Sun Devil,27,16
+802,Haboob,Cactus,21,21
+803,Haboob,Dragon,29,19
+804,Roomba,Cactus,30,32
+805,Sun Devil,Haboob,26,11
+806,Dragon,Haboob,26,35
+807,Haboob,Sun Devil,23,8
+808,Roomba,Cactus,29,33
+809,Haboob,Cactus,26,18
+810,Cactus,Haboob,35,3
+811,Sun Devil,Vending Machine,40,2
+812,Cactus,Vending Machine,35,11
+813,Dragon,Cactus,34,9
+814,Sun Devil,Haboob,22,33
+815,Vending Machine,Cactus,36,3
+816,Cactus,Sun Devil,35,15
+817,Sun Devil,Vending Machine,38,9
+818,Dragon,Cactus,29,13
+819,Sun Devil,Cactus,26,12
+820,Sun Devil,Vending Machine,35,10
+821,Roomba,Vending Machine,39,4
+822,Sun Devil,Cactus,34,11
+823,Vending Machine,Sun Devil,42,9
+824,Dragon,Haboob,27,15
+825,Haboob,Vending Machine,39,20
+826,Haboob,Vending Machine,36,11
+827,Dragon,Vending Machine,28,8
+828,Sun Devil,Vending Machine,38,17
+829,Haboob,Vending Machine,31,4
+830,Sun Devil,Roomba,51,3
+831,Vending Machine,Cactus,32,17
+832,Cactus,Haboob,30,8
+833,Roomba,Vending Machine,31,20
+834,Roomba,Vending Machine,46,8
+835,Haboob,Sun Devil,31,16
+836,Roomba,Dragon,37,2
+837,Sun Devil,Cactus,28,16
+838,Sun Devil,Roomba,36,7
+839,Sun Devil,Haboob,30,12
+840,Dragon,Roomba,31,11
+841,Haboob,Cactus,35,20
+842,Sun Devil,Cactus,29,16
+843,Sun Devil,Vending Machine,35,15
+844,Cactus,Sun Devil,35,6
+845,Haboob,Dragon,30,25
+846,Vending Machine,Haboob,36,2
+847,Dragon,Cactus,26,34
+848,Cactus,Sun Devil,25,5
+849,Haboob,Vending Machine,28,6
+850,Roomba,Cactus,29,26
+851,Sun Devil,Roomba,32,12
+852,Cactus,Sun Devil,32,8
+853,Haboob,Roomba,45,5
+854,Sun Devil,Vending Machine,36,29
+855,Haboob,Roomba,41,8
+856,Haboob,Dragon,29,9
+857,Haboob,Sun Devil,34,5
+858,Roomba,Haboob,45,7
+859,Haboob,Vending Machine,30,23
+860,Vending Machine,Cactus,30,2
+861,Roomba,Haboob,36,4
+862,Dragon,Cactus,28,23
+863,Dragon,Roomba,36,22
+864,Roomba,Cactus,32,18
+865,Roomba,Dragon,38,8
+866,Roomba,Dragon,34,16
+867,Cactus,Sun Devil,41,3
+868,Dragon,Sun Devil,34,2
+869,Sun Devil,Dragon,26,5
+870,Haboob,Roomba,24,33
+871,Roomba,Cactus,37,5
+872,Roomba,Haboob,27,2
+873,Haboob,Cactus,36,2
+874,Vending Machine,Dragon,35,7
+875,Dragon,Haboob,25,15
+876,Cactus,Roomba,31,28
+877,Dragon,Cactus,38,3
+878,Sun Devil,Vending Machine,37,9
+879,Cactus,Roomba,30,6
+880,Haboob,Vending Machine,35,2
+881,Haboob,Roomba,34,5
+882,Vending Machine,Sun Devil,31,15
+883,Roomba,Dragon,43,8
+884,Sun Devil,Haboob,19,36
+885,Roomba,Vending Machine,40,12
+886,Dragon,Haboob,33,1
+887,Dragon,Vending Machine,26,35
+888,Dragon,Cactus,24,14
+889,Dragon,Sun Devil,30,19
+890,Cactus,Vending Machine,36,3
+891,Vending Machine,Sun Devil,40,14
+892,Roomba,Haboob,24,1
+893,Dragon,Haboob,22,22
+894,Dragon,Vending Machine,37,16
+895,Cactus,Roomba,29,43
+896,Dragon,Vending Machine,32,5
+897,Roomba,Vending Machine,42,1
+898,Roomba,Vending Machine,41,6
+899,Sun Devil,Cactus,26,19
+900,Sun Devil,Haboob,27,9
+901,Sun Devil,Cactus,27,22
+902,Sun Devil,Roomba,32,8
+903,Roomba,Haboob,36,6
+904,Vending Machine,Haboob,28,23
+905,Vending Machine,Cactus,35,24
+906,Roomba,Haboob,28,38
+907,Roomba,Vending Machine,44,21
+908,Roomba,Vending Machine,43,11
+909,Dragon,Haboob,22,33
+910,Dragon,Vending Machine,35,12
+911,Sun Devil,Vending Machine,37,21
+912,Dragon,Haboob,25,21
+913,Vending Machine,Haboob,44,3
+914,Vending Machine,Roomba,34,16
+915,Haboob,Sun Devil,37,1
+916,Vending Machine,Sun Devil,35,23
+917,Sun Devil,Dragon,31,5
+918,Roomba,Vending Machine,33,12
+919,Dragon,Vending Machine,39,17
+920,Haboob,Roomba,32,14
+921,Haboob,Vending Machine,32,15
+922,Roomba,Haboob,32,7
+923,Dragon,Cactus,25,21
+924,Dragon,Haboob,27,17
+925,Sun Devil,Dragon,29,2
+926,Dragon,Haboob,27,41
+927,Sun Devil,Vending Machine,40,4
+928,Sun Devil,Vending Machine,31,21
+929,Cactus,Vending Machine,37,22
+930,Sun Devil,Vending Machine,41,2
+931,Dragon,Sun Devil,29,14
+932,Dragon,Vending Machine,26,27
+933,Sun Devil,Haboob,31,21
+934,Sun Devil,Cactus,26,17
+935,Vending Machine,Roomba,34,18
+936,Haboob,Cactus,25,2
+937,Dragon,Sun Devil,27,18
+938,Dragon,Vending Machine,33,23
+939,Haboob,Vending Machine,35,10
+940,Cactus,Haboob,27,4
+941,Haboob,Vending Machine,36,13
+942,Roomba,Vending Machine,41,20
+943,Haboob,Cactus,21,26
+944,Dragon,Sun Devil,28,13
+945,Roomba,Dragon,44,1
+946,Vending Machine,Cactus,36,11
+947,Cactus,Roomba,27,17
+948,Cactus,Vending Machine,37,9
+949,Cactus,Dragon,30,9
+950,Haboob,Cactus,26,7
+951,Vending Machine,Sun Devil,50,8
+952,Dragon,Sun Devil,36,4
+953,Cactus,Vending Machine,38,13
+954,Roomba,Haboob,34,8
+955,Vending Machine,Dragon,34,14
+956,Dragon,Roomba,28,2
+957,Roomba,Vending Machine,37,19
+958,Dragon,Cactus,27,18
+959,Dragon,Cactus,28,4
+960,Roomba,Cactus,28,27
+961,Roomba,Vending Machine,32,30
+962,Sun Devil,Vending Machine,37,26
+963,Roomba,Vending Machine,49,19
+964,Vending Machine,Haboob,37,1
+965,Vending Machine,Haboob,28,14
+966,Roomba,Cactus,32,19
+967,Cactus,Dragon,29,9
+968,Dragon,Roomba,38,4
+969,Haboob,Roomba,34,5
+970,Vending Machine,Haboob,35,14
+971,Cactus,Vending Machine,37,10
+972,Dragon,Cactus,27,14
+973,Sun Devil,Haboob,30,18
+974,Roomba,Sun Devil,48,6
+975,Vending Machine,Roomba,37,14
+976,Dragon,Roomba,30,15
+977,Vending Machine,Sun Devil,24,20
+978,Haboob,Dragon,27,11
+979,Dragon,Cactus,17,37
+980,Cactus,Sun Devil,33,10
+981,Roomba,Vending Machine,44,9
+982,Vending Machine,Roomba,39,3
+983,Haboob,Dragon,27,11
+984,Dragon,Roomba,30,22
+985,Haboob,Cactus,24,12
+986,Roomba,Sun Devil,41,8
+987,Haboob,Sun Devil,30,18
+988,Vending Machine,Roomba,40,15
+989,Haboob,Vending Machine,32,8
+990,Dragon,Vending Machine,40,15
+991,Dragon,Cactus,25,24
+992,Dragon,Cactus,26,18
+993,Dragon,Sun Devil,32,13
+994,Dragon,Roomba,37,13
+995,Sun Devil,Vending Machine,35,18
+996,Dragon,Sun Devil,31,25
+997,Dragon,Vending Machine,43,2
+998,Sun Devil,Haboob,29,25
+999,Dragon,Roomba,23,18
+1000,Dragon,Vending Machine,32,13
