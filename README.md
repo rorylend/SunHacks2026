@@ -41,7 +41,7 @@ The key statistic is the win rate:
 
 In a perfectly balanced game every fighter would sit near 50%, so big deviations flag the characters that need rebalancing.
 
-## 📊 What We Found
+## What We Found
 In our run of 1,000 battles between six fighters, the game was **not balanced**:
 
 | Fighter | Win rate |
@@ -55,7 +55,7 @@ In our run of 1,000 battles between six fighters, the game was **not balanced**:
 
 That's a gap of nearly 37 percentage points between the strongest and weakest fighter, far from the 50% we would expect in a fair game. The battles are random, so exact numbers shift a little each run, but the pattern stays the same.
 
-## 🚀 How to Run
+## How to Run
 
 <details>
 <summary>☕ Step 1: Run the Java simulation</summary>
@@ -96,7 +96,7 @@ SunHacks2026/
 ```
 See [`engine/`](engine/) for the fighter stats and Java details.
 
-## 🧗 Challenges We Ran Into
+## Challenges We Ran Into
 Getting there wasn't smooth.
 - Java and Python don't share data directly, so we had to agree on a file format. The CSV's column names (`winner`, `loser`, `rounds`, `winner_hp_left`) had to match exactly or the analysis would fail with a `KeyError`.
 - Our data file was actually an Excel workbook with the wrong extension, so VS Code refused to open it as text.
@@ -117,3 +117,4 @@ Along the way we learned how to build a data pipeline across two languages, how 
 
 ## 🛠️ Built With
 Java · Python · pandas · matplotlib
+with Eclipse and Visual Studio (IDEs)
