@@ -1,8 +1,8 @@
 # SunHacks2026
 
-# ☕ Battle Simulator: Java Engine
+# Battle Simulator: Java Engine
 
-The Java half of our SunHacks 2026 project. It runs **1,000 random battles** between silly fighters and saves every result to `results.csv`. The Python half (`/storyteller`) reads that file and turns it into charts.
+The Java half of our SunHacks 2026 project runs **1,000 random battles** between silly fighters and saves every result to `results.csv`. The Python half reads that file and turns it into charts.
 
 ## 🎮 What It Does
 
@@ -44,7 +44,7 @@ This file is the only thing our Java and Python code share, so both sides agree 
 1. Put `Fighter.java` and `ProjectMain.java` in the same project.
 2. Run `ProjectMain.java`.
 3. The console prints `Done! Wrote 1000 battles to results.csv`.
-4. Refresh the project (F5) to see `results.csv`.
+4. Refresh the project to see `results.csv`.
 
 </details>
 
@@ -77,5 +77,6 @@ Results change every run because the battles are random. In one run, the Dragon 
 ## 📚 What We Learned
 
 - How to split one project between two languages by agreeing on a shared file format
+- How to transfer content between Eclipse and Visual Studio (different IDEs)
 - How to track down small bugs like typos in variable names and a swapped variable in an `if` block
 - How to use GitHub so two people can work in the same repo without overwriting each other
