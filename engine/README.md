@@ -84,13 +84,6 @@ java ProjectMain
 
 </details>
 
-## Make It Your Own
-
-In `ProjectMain.java` you can:
-- Change `NUM_BATTLES` to run more or fewer fights
-- Edit a fighter's stats, or add a new one with `fighters.add(new Fighter("Name", hp, minAttack, maxAttack, dodgeChance))`
-- Avoid commas in fighter names, since the output is a CSV file
-
 Rerun the program afterward, since each run **overwrites** `results.csv` with new random battles.
 
 ## 🛠️ Java Concepts Used
