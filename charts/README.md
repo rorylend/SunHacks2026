@@ -94,7 +94,7 @@ python -m pip install -r requirements.txt
 - File paths with `os` and command-line arguments with `sys`
 - Functions and a `main()` entry point
 
-## 📚 What We Learned (Python)
+## What We Learned Using Python
 
 - How to aggregate data with pandas and visualize it with matplotlib
 - How to debug environment problems, such as libraries installed for the wrong Python, and file-format problems, rather than just code
