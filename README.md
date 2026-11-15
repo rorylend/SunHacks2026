@@ -1,4 +1,4 @@
-# SunHacks2026
+# sunhacks 2026
 
 # Battle Simulator: Java Engine
 
