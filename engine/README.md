@@ -84,8 +84,6 @@ java ProjectMain
 
 </details>
 
-Rerun the program afterward, since each run **overwrites** `results.csv` with new random battles.
-
 ## 🛠️ Java Concepts Used
 
 - Classes and objects (a `Fighter` blueprint and a driver class)
